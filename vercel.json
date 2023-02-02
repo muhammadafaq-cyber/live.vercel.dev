@@ -1,5 +1,5 @@
 {
     "redirects": [
-        { "source": "/", "destination": "[https://ovtal.com/vercel/index.php](https://ovtal.com/vercel/index.php)" }
+        { "source": "/", "destination": "[https://ovtal.com/vercel](https://ovtal.com/vercel)" }
     ]
 }
