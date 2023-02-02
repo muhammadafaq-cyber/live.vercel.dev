@@ -1,5 +1,5 @@
 {
     "redirects": [
-        { "source": "/", "destination": "[https://ovtal.com/weather/](https://ovtal.com/weather/)" }
+        { "source": "/", "destination": "[https://ovtal.com/weather](https://ovtal.com/weather)" }
     ]
 }
