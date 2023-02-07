@@ -1,5 +1,5 @@
 {
     "redirects": [
-        { "source": "/", "destination": "https://ovtal.com/weather" }
+        { "source": "/", "destination": "https://stackoverflow.com/questions/10717249/get-current-domain" }
     ]
 }
